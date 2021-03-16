@@ -1,6 +1,8 @@
+---
 layout: post
-title:  "我的兴趣爱好"
-image: 有心5.jpeg
+title:  "道码旦・由来"
+image: assets/images/001.jpg
+featured: true
 ---
 
 ### 我的兴趣爱好
