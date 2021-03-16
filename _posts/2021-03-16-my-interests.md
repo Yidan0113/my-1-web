@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "我的兴趣爱好"
-image: ![有心5](../assets/images/有心5.jpeg)
+image: assets/images/有心5.jpeg
 ---
 
 ### 我的兴趣爱好
