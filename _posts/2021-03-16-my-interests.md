@@ -1,7 +1,6 @@
 layout: post
 title:  "我的兴趣爱好"
 image: 有心5.jpeg
-featured: true
 ---
 
 ### 我的兴趣爱好
